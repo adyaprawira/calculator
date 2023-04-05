@@ -53,5 +53,6 @@ button:hover {
 
 p {
     text-align: center;
+    margin: 0;
     font-weight: bold;
 }
