@@ -51,8 +51,7 @@ button:hover {
     background-color: darkorange;
 }
 
-p {
+.creator {
     text-align: center;
-    margin: 0;
     font-weight: bold;
 }
